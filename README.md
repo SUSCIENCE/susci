@@ -1,2 +1,2 @@
-# susci
+# SUSCI
 website of sabanciuniversity science club
